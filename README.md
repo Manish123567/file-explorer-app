@@ -9,5 +9,7 @@ A fully functional file explorer built in React.js with features like:
 
 ## 🚀 Getting Started
 
+cd assignment
+
 npm run dev
 
