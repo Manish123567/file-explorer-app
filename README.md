@@ -11,6 +11,6 @@ A fully functional file explorer built in React.js with features like:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/file-explorer-app.git
+git clone [https://github.com/Manish123567/file-explorer-app.git]
 cd file-explorer-app
 
