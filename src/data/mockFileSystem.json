@@ -1,0 +1,23 @@
+
+{
+  "name": "root",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Documents",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Resume.pdf",
+          "type": "file",
+          "content": "This is a sample resume content.\n\nJohn Doe\nSoftware Engineer\nEmail: john@example.com\nPhone: 123-456-7890\n\nExperience:\n- Company A (2018-2021): Worked on full-stack applications using React and Node.js.\n- Company B (2021-2023): Led frontend team in building responsive UI components.\n\nEducation:\n- B.Tech in Computer Science, XYZ University, 2014-2018\n\nSkills:\n- JavaScript, React, Redux, Node.js, Express\n- MongoDB, SQL\n- Git, Docker, AWS\n\nProjects:\n- File Explorer Web App\n- Resume Builder Tool\n- Real-Time Chat App\n\nReferences available upon request."
+        }
+      ]
+    },
+    {
+      "name": "Notes.txt",
+      "type": "file",
+      "content": "Todo:\n- Build file explorer UI\n- Add drag-and-drop\n- Add search and highlight\n- Persist to localStorage\n- Add file viewer\n- Allow file operations: create, delete, rename\n- Polish UX with icons and transitions"
+    }
+  ]
+}
